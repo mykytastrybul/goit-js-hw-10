@@ -10,6 +10,11 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  background-color: rgb(200,200,200);
 }
 
 #search-box {
@@ -17,4 +22,13 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+}
+img{
+  width: 50px;
+}
+li{
+  list-style: none;
+}
+ul{
+  padding-left: 0;
 }
